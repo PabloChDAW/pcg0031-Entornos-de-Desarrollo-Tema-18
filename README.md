@@ -20,3 +20,5 @@ Para la realización de esta tarea he reinterpretado el desarrollo de la tarea d
 
 8º. Desde la rama Develop, que ahora tiene funcionalidades, y el proyecto está listo para lanzar su primera versión, creo la rama Release.
 
+Por último, hago un Pull Request desde la rama Release a la rama Master con la primera versión lista para el lanzamiento.
+
