@@ -5,4 +5,6 @@ Para la realización de esta tarea he reinterpretado el desarrollo de la tarea d
 
 1º. He creado el repositorio y lo he subido a GitHub como público.
 
-2º. 
+2º. He creado y publicado la rama Master, que será la rama principal del proyecto.
+
+3º. 
