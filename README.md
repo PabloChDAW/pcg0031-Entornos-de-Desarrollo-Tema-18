@@ -12,3 +12,4 @@ Para la realización de esta tarea he reinterpretado el desarrollo de la tarea d
 4º. He creado el método main del proyecto Java, que será la base de todo el proyecto, y he creado dos nuevas ramas, Develop (para el desarrollo de la aplicación) y Hotfix (para solucionar problemas desde la rama principal sin tener que trabajar directamente sobre ésta, por seguridad)
 
 
+5º. En la rama Develop he creado las otras dos clases necesarias (Libro y Pagina) y a partir de esta rama, he creado la rama Feature para añadir funcionalidades a la aplicación.
