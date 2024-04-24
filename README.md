@@ -7,4 +7,5 @@ Para la realización de esta tarea he reinterpretado el desarrollo de la tarea d
 
 2º. He creado y publicado  la rama Master, que será la rama principal del proyecto.
 
-3º. 
+3º. He fusionado (merge) la rama main con la rama Master y la he seleccionado como la rama principal. Luego he borrado la rama main. (También podría haberle cambiado el nombre, pero he caído más tarde).
+
