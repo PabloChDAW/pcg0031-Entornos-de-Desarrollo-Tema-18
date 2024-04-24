@@ -18,3 +18,5 @@ Para la realización de esta tarea he reinterpretado el desarrollo de la tarea d
 
 7º. Para añadir funcionalidades, hago un Pull Request desde la rama Develop a la rama Features. Tras comprobar que no hay conflictos, hago el Merge.
 
+8º. Desde la rama Develop, que ahora tiene funcionalidades, y el proyecto está listo para lanzar su primera versión, creo la rama Release.
+
