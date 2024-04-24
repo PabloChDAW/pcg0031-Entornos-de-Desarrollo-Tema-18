@@ -16,4 +16,5 @@ Para la realización de esta tarea he reinterpretado el desarrollo de la tarea d
 
 6º. Continúo el desarrollo en la rama Develop.
 
-7º. Para añadir funcionalidades, hago un Pull Request desde la rama Develop a la rama Features.
+7º. Para añadir funcionalidades, hago un Pull Request desde la rama Develop a la rama Features. Tras comprobar que no hay conflictos, hago el Merge.
+
