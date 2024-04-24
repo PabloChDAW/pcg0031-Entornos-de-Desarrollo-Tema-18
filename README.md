@@ -13,3 +13,5 @@ Para la realización de esta tarea he reinterpretado el desarrollo de la tarea d
 
 
 5º. En la rama Develop he creado las otras dos clases necesarias (Libro y Pagina) y a partir de esta rama, he creado la rama Feature para añadir funcionalidades a la aplicación.
+
+6º. Continúo el desarrollo en la rama Develop.
